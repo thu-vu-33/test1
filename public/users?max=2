@@ -1,0 +1,23 @@
+[
+    {
+        "id": "crv4gtfdpoq4t3k052dg",
+        "createdTimestamp": 1724814328075,
+        "username": "admin",
+        "enabled": true,
+        "totp": false,
+        "emailVerified": false,
+        "firstName": "admin",
+        "lastName": "admin",
+        "email": "admin@innogram.co",
+        "disableableCredentialTypes": [],
+        "requiredActions": [],
+        "notBefore": 0,
+        "access": {
+            "manageGroupMembership": true,
+            "view": true,
+            "mapRoles": true,
+            "impersonate": false,
+            "manage": true
+        }
+    }
+]
